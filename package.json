@@ -1,0 +1,18 @@
+{
+  "name": "densyy-node-toolbox",
+  "version": "0.0.1",
+  "scripts": {},
+  "license": "UNLICENSED",
+  "author": "densyy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/densyy/densyy-node-toolbox.git"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
