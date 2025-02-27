@@ -1,4 +1,4 @@
-import language from '../languages/pt-BR'
+import language from '../languages/pt-BR.js'
 
 const STATUS_OK = 'ok'
 const STATUS_ERROR = 'error'
