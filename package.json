@@ -4,6 +4,7 @@
   "scripts": {},
   "license": "UNLICENSED",
   "author": "densyy",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git://github.com/densyy/densyy-node-toolbox.git"
