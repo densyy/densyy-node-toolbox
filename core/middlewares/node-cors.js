@@ -7,7 +7,7 @@ const corsHeaders = Object.freeze(
 )
 
 export default function (req, res, next) {
-  corsHeaders.forEach((header, value) => {
+  corsHeaders.forEach((value, header) => {
     res.setHeader(header, value)
   })
 
